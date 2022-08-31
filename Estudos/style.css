@@ -1,0 +1,48 @@
+body {
+	 
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30PX;
+}
+
+
+#crianca2 {
+ width: 100% ;
+ height: 300px;
+
+
+}
+
+h1 {
+	text-align:  center;
+}
+
+p {
+	text-align:  center;
+}
+
+strong em  {
+	color: red;
+}
+
+h2 {
+	text-align: center;
+}
+
+.educacao{
+	width: 50%;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+
+}
+
+.itens {
+	font-style: italic;
+}
